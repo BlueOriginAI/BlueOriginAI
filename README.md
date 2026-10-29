@@ -2,7 +2,7 @@
 
 <p><sub>BUILD × AI × WORKFLOW</sub></p>
 
-<h1>BlueOriginAI · Remocode</h1>
+<h1>Remocode</h1>
 
 <h3>让 AI 工具各就其位，让工作回归专注。</h3>
 
